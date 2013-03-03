@@ -1,0 +1,9 @@
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\bin\Debug\MEFControllers.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\bin\Debug\MEFControllers.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\bin\Debug\NLog.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\bin\Debug\NLog.xml
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\obj\Debug\MEFControllers.csprojResolveAssemblyReference.cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\obj\Debug\MEFControllers.Properties.Resources.resources
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\obj\Debug\MEFControllers.csproj.GenerateResource.Cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\obj\Debug\MEFControllers.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFControllers\obj\Debug\MEFControllers.pdb

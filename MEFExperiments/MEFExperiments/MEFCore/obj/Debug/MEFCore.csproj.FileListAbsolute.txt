@@ -1,0 +1,8 @@
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFCore\bin\Debug\NLog.config
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFCore\bin\Debug\MEFCore.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFCore\bin\Debug\MEFCore.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFCore\bin\Debug\NLog.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFCore\bin\Debug\NLog.xml
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFCore\obj\Debug\MEFCore.csprojResolveAssemblyReference.cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFCore\obj\Debug\MEFCore.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFCore\obj\Debug\MEFCore.pdb

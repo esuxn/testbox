@@ -1,0 +1,15 @@
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\bin\Debug\MEFApplication.exe.config
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\bin\Debug\MEFApplication.exe
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\bin\Debug\MEFApplication.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\bin\Debug\NLog.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\bin\Debug\NLog.xml
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MEFApplication.csprojResolveAssemblyReference.cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MainWindow.baml
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\App.g.cs
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MEFApplication_MarkupCompile.cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MEFApplication.g.resources
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MEFApplication.Properties.Resources.resources
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MEFApplication.csproj.GenerateResource.Cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MEFApplication.exe
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\MEFApplication\obj\Debug\MEFApplication.pdb

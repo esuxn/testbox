@@ -1,0 +1,11 @@
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\bin\Debug\HostWindow.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\bin\Debug\HostWindow.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\HostWindow.csprojResolveAssemblyReference.cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\MainWindow.baml
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\HostWindow_MarkupCompile.cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\HostWindow.g.resources
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\HostWindow.Properties.Resources.resources
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\HostWindow.csproj.GenerateResource.Cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\HostWindow.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostWindow\obj\Debug\HostWindow.pdb

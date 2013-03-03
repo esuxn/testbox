@@ -1,0 +1,5 @@
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WindowManager\bin\Debug\WindowManager.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WindowManager\bin\Debug\WindowManager.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WindowManager\obj\Debug\WindowManager.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WindowManager\obj\Debug\WindowManager.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WindowManager\obj\Debug\WindowManager.csprojResolveAssemblyReference.cache

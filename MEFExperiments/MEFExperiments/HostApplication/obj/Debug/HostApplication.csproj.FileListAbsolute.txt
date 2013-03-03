@@ -1,0 +1,10 @@
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\bin\Debug\HostApplication.exe.config
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\bin\Debug\HostApplication.exe
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\bin\Debug\HostApplication.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\bin\Debug\HostWindow.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\bin\Debug\NLog.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\bin\Debug\HostWindow.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\bin\Debug\NLog.xml
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\obj\Debug\HostApplication.csprojResolveAssemblyReference.cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\obj\Debug\HostApplication.exe
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\HostApplication\obj\Debug\HostApplication.pdb

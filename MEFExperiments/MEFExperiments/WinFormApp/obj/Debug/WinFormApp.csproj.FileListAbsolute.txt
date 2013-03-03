@@ -1,0 +1,17 @@
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\obj\Debug\WinFormApp.csprojResolveAssemblyReference.cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\obj\Debug\WinFormApp.HostForm.resources
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.Cache
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\HostApplication.exe
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\MEFApplication.exe
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\WindowManager.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\HostWindow.dll
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\HostApplication.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\MEFApplication.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\WindowManager.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\bin\Debug\HostWindow.pdb
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\Suhas\Documents\GitHub\testbox\MEFExperiments\MEFExperiments\WinFormApp\obj\Debug\WinFormApp.pdb

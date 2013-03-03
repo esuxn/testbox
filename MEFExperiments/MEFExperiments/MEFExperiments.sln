@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFApplication", "MEFApplication\MEFApplication.csproj", "{1197DDD3-62A2-4645-A921-E28FB04E9F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFControllers", "MEFControllers\MEFControllers.csproj", "{F5A11852-3F39-4A46-8591-444E2F6B711F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFCore", "MEFCore\MEFCore.csproj", "{38AB1845-4431-44E5-A366-70C83356C466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormApp", "WinFormApp\WinFormApp.csproj", "{B4E4F7B1-A63D-4EE6-A19F-303FD6C1D362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowManager", "WindowManager\WindowManager.csproj", "{63EE87FF-EE8C-49C8-8877-147440AB8CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostApplication", "HostApplication\HostApplication.csproj", "{5A2623F1-18AE-4FDC-9D29-810FD0163BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostWindow", "HostWindow\HostWindow.csproj", "{41413174-E1E2-4ADA-A449-344E1334F738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1197DDD3-62A2-4645-A921-E28FB04E9F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1197DDD3-62A2-4645-A921-E28FB04E9F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1197DDD3-62A2-4645-A921-E28FB04E9F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1197DDD3-62A2-4645-A921-E28FB04E9F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A11852-3F39-4A46-8591-444E2F6B711F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A11852-3F39-4A46-8591-444E2F6B711F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A11852-3F39-4A46-8591-444E2F6B711F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A11852-3F39-4A46-8591-444E2F6B711F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AB1845-4431-44E5-A366-70C83356C466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AB1845-4431-44E5-A366-70C83356C466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AB1845-4431-44E5-A366-70C83356C466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AB1845-4431-44E5-A366-70C83356C466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E4F7B1-A63D-4EE6-A19F-303FD6C1D362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E4F7B1-A63D-4EE6-A19F-303FD6C1D362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E4F7B1-A63D-4EE6-A19F-303FD6C1D362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E4F7B1-A63D-4EE6-A19F-303FD6C1D362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63EE87FF-EE8C-49C8-8877-147440AB8CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EE87FF-EE8C-49C8-8877-147440AB8CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EE87FF-EE8C-49C8-8877-147440AB8CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EE87FF-EE8C-49C8-8877-147440AB8CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2623F1-18AE-4FDC-9D29-810FD0163BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2623F1-18AE-4FDC-9D29-810FD0163BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2623F1-18AE-4FDC-9D29-810FD0163BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2623F1-18AE-4FDC-9D29-810FD0163BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41413174-E1E2-4ADA-A449-344E1334F738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41413174-E1E2-4ADA-A449-344E1334F738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41413174-E1E2-4ADA-A449-344E1334F738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41413174-E1E2-4ADA-A449-344E1334F738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
